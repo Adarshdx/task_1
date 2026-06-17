@@ -48,3 +48,7 @@ Data-Cleaning-Visualization-Project/
 - Data Preprocessing
 - Data Visualization
 - Basic Data Analysis
+
+##Author
+
+Adarsh Chaudhary 
