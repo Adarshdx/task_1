@@ -86,3 +86,4 @@ print("1. output/cleaned_student_data.csv")
 print("2. output/maths_scores.png")
 print("3. output/subject_performance.png")
 print("4. output/science_trend.png")
+.
